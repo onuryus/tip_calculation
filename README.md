@@ -16,7 +16,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-Bu projede tiplerden gelecek kazancı tahmin etmeye çalıştım. Özellikle masadaki kişi sayısı, ortamın sıgara içilen veya içilmeyen bir ortam olması, toplam hesap, ödenen bahşiş, günün hangi zaman dilimi ve hangi gün oldugunu belirten veri setini kullarak birden fazla model eğitip birbiri arasında modelleri karşılaştırarak en başarılı olanı seçtim. Model eğitimi öncesindeki yaklaşımlarım ve kullandıgım modeller şu şekildedir;
+I worked on predicting the income from tips in this project. Specifically, I used a dataset that includes the number of people at the table, whether the environment is smoking or non-smoking, the total bill, the tip paid, the time of day, and the day of the week. I trained multiple models using this data and compared them to select the most successful one. My approaches before model training and the models I used are as follows; 
 
 * feature engineering
 * data wrangling
@@ -26,6 +26,6 @@ Bu projede tiplerden gelecek kazancı tahmin etmeye çalıştım. Özellikle mas
 * Elastic net linear regression
 
 
-Ek olarak modeller arasından seçtiğim en başarılı tahmin modeli olan ridge resresyonun performansı aşagıdaki "actual vs predicted values" grafiginden börebilirsiniz.
+Additionally, you can see the performance of the most successful prediction model I selected, Ridge regression, in the 'actual vs predicted values' graph below
 
 <img src="pictures/performance.png" alt="performance" width="500" />
