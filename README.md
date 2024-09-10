@@ -1,5 +1,11 @@
 # tip_calculation
 
+<table>
+  <tr>
+    <td><h1>Hi there 👋  Tip Please </h1></td>
+    <td><img src="/pictures/giphy.gif" alt="Tip GIF" width="350" /></td>
+  </tr>
+</table>
 
 
 ### Languages, Libraries, Tools & Technologies that I used in this project
