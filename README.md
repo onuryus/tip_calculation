@@ -24,3 +24,8 @@ Bu projede tiplerden gelecek kazancı tahmin etmeye çalıştım. Özellikle mas
 * lasso regression
 * ridge regression
 * Elastic net linear regression
+
+
+Ek olarak modeller arasından seçtiğim en başarılı tahmin modeli olan ridge resresyonun performansı aşagıdaki "actual vs predicted values" grafiginden börebilirsiniz.
+
+<img src="pictures/performance.png" alt="performance" width="500" />
